@@ -6,7 +6,7 @@ pipelineJob('theme-park-job') {
                     remote {
                         url 'https://github.com/susenjitdey/fullstackgradle.git'
                     }
-                    branch 'master'
+                    branch 'MyBranchFullStackThemepark#'
                 }
             }
         }
